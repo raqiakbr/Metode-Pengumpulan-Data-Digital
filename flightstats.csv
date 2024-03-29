@@ -1,0 +1,394 @@
+﻿sortTime,departureTime_timeAMPM,departureTime_time24,arrivalTime_timeAMPM,arrivalTime_time24,carrier_fs,carrier_name,carrier_flightNumber,operatedBy,url,airport_fs,airport_city,isCodeshare
+2024-03-27T10:45:00.000Z,2:10PM,14:10,3:25PM,15:25,IN*,Nam Air,291,,/flight-tracker/IN*/291?year=2024&amp;month=3&amp;date=28&amp;flightId=1242877555,PKN,Pangkalanbun,
+2024-03-27T14:05:00.000Z,7:40PM,19:40,9:05PM,21:05,CTV,Citilink,723,,/flight-tracker/CTV/723?year=2024&amp;month=3&amp;date=27&amp;flightId=1242899013,SUB,Surabaya,
+2024-03-27T23:05:00.000Z,5:00AM,05:00,6:05AM,06:05,CTV,Citilink,985,,/flight-tracker/CTV/985?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053758,PLM,Palembang,
+2024-03-27T23:55:00.000Z,5:30AM,05:30,6:55AM,06:55,CTV,Citilink,711,,/flight-tracker/CTV/711?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053586,SUB,Surabaya,
+2024-03-28T00:05:00.000Z,6:00AM,06:00,7:05AM,07:05,CTV,Citilink,763,,/flight-tracker/CTV/763?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053632,SOC,Surakarta,
+2024-03-28T01:55:00.000Z,7:50AM,07:50,8:55AM,08:55,CTV,Citilink,971,,/flight-tracker/CTV/971?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053760,PGK,Pangkal Pinang,
+2024-03-28T03:00:00.000Z,8:15AM,08:15,10:00AM,10:00,CTV,Citilink,213,,/flight-tracker/CTV/213?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053507,UPG,Ujung Pandang,
+2024-03-28T03:05:00.000Z,8:25AM,08:25,10:05AM,10:05,SJV,Super Air Jet,857,,/flight-tracker/SJV/857?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032007,BTH,Batam,
+2024-03-28T04:10:00.000Z,8:50AM,08:50,11:10AM,11:10,CTV,Citilink,913,,/flight-tracker/CTV/913?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053692,KNO,Kuala Namu,
+2024-03-28T04:20:00.000Z,10:35AM,10:35,11:20AM,11:20,CTV,Citilink,481,,/flight-tracker/CTV/481?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053590,BDJ,Banjarmasin,
+2024-03-28T04:50:00.000Z,10:30AM,10:30,12:50PM,12:50,JT*,Lion Air,211,,/flight-tracker/JT*/211?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034626,KNO,Kuala Namu,
+2024-03-28T04:55:00.000Z,8:50AM,08:50,11:55AM,11:55,ID*,Batik Air,6181,,/flight-tracker/ID*/6181?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031206,DJJ,Jayapura,
+2024-03-28T05:00:00.000Z,10:35AM,10:35,12:00PM,12:00,QZ,Indonesia AirAsia,223,,/flight-tracker/QZ/223?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054961,PEN,Penang,
+2024-03-28T05:00:00.000Z,10:20AM,10:20,12:00PM,12:00,CTV,Citilink,703,,/flight-tracker/CTV/703?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053565,BWX,Banyuwangi,
+2024-03-28T05:00:00.000Z,11:15AM,11:15,12:40PM,12:40,JT*,Lion Air,713,,/flight-tracker/JT*/713?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034798,PNK,Pontianak,
+2024-03-28T05:00:00.000Z,11:10AM,11:10,12:00PM,12:00,JT*,Lion Air,171,,/flight-tracker/JT*/171?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034597,TKG,Bandar Lampung,
+2024-03-28T05:05:00.000Z,11:15AM,11:15,12:05PM,12:05,SJV,Super Air Jet,741,,/flight-tracker/SJV/741?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031947,DPS,Denpasar,
+2024-03-28T05:05:00.000Z,10:40AM,10:40,12:05PM,12:05,CTV,Citilink,715,,/flight-tracker/CTV/715?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053651,SUB,Surabaya,
+2024-03-28T05:05:00.000Z,10:45AM,10:45,12:05PM,12:05,GA,Garuda Indonesia,225,,/flight-tracker/GA/225?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026433,SOC,Surakarta,
+2024-03-28T05:05:00.000Z,10:45AM,10:45,12:05PM,12:05,EK,Emirates,7261,Operated by Garuda Indonesia 225,/flight-tracker/EK/7261?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026433,SOC,Surakarta,TRUE
+2024-03-28T05:05:00.000Z,10:45AM,10:45,12:05PM,12:05,EY,Etihad Airways,8175,Operated by Garuda Indonesia 225,/flight-tracker/EY/8175?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026433,SOC,Surakarta,TRUE
+2024-03-28T05:05:00.000Z,10:45AM,10:45,12:05PM,12:05,MH,Malaysia Airlines,5911,Operated by Garuda Indonesia 225,/flight-tracker/MH/5911?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026433,SOC,Surakarta,TRUE
+2024-03-28T05:05:00.000Z,10:45AM,10:45,12:05PM,12:05,JT*,Lion Air,809,,/flight-tracker/JT*/809?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034866,DJB,Jambi,
+2024-03-28T05:05:00.000Z,10:50AM,10:50,12:05PM,12:05,JT*,Lion Air,639,,/flight-tracker/JT*/639?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034737,BKS,Bengkulu,
+2024-03-28T05:10:00.000Z,11:10AM,11:10,12:10PM,12:10,CTV,Citilink,641,,/flight-tracker/CTV/641?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053600,LOP,Praya,
+2024-03-28T05:15:00.000Z,10:50AM,10:50,12:15PM,12:15,CTV,Citilink,333,,/flight-tracker/CTV/333?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053508,UPG,Ujung Pandang,
+2024-03-28T05:15:00.000Z,11:15AM,11:15,12:15PM,12:15,GA,Garuda Indonesia,431,,/flight-tracker/GA/431?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026455,LOP,Praya,
+2024-03-28T05:15:00.000Z,10:40AM,10:40,12:15PM,12:15,6D,Pelita Air Service,211,,/flight-tracker/6D/211?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031655,SUB,Surabaya,
+2024-03-28T05:20:00.000Z,10:00AM,10:00,12:20PM,12:20,SJV,Super Air Jet,941,,/flight-tracker/SJV/941?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032019,KNO,Kuala Namu,
+2024-03-28T05:20:00.000Z,10:10AM,10:10,12:20PM,12:20,SJV,Super Air Jet,957,,/flight-tracker/SJV/957?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032055,DTB,Siborong-Borong,
+2024-03-28T05:20:00.000Z,10:10AM,10:10,12:20PM,12:20,QZ,Indonesia AirAsia,725,,/flight-tracker/QZ/725?year=2024&amp;month=3&amp;date=28&amp;flightId=1243055033,DTB,Siborong-Borong,
+2024-03-28T05:20:00.000Z,11:25AM,11:25,12:20PM,12:20,ID*,Batik Air,7154,,/flight-tracker/ID*/7154?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031384,SIN,Singapore,
+2024-03-28T05:20:00.000Z,9:45AM,09:45,10:50AM,10:50,JT*,Lion Air,127,,/flight-tracker/JT*/127?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034607,TJQ,Tanjung Pandan,
+2024-03-28T05:25:00.000Z,11:25AM,11:25,12:25PM,12:25,JT*,Lion Air,751,,/flight-tracker/JT*/751?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034825,BPN,Balikpapan,
+2024-03-28T05:25:00.000Z,11:40AM,11:40,12:25PM,12:25,TNU,TransNusa,152,,/flight-tracker/TNU/152?year=2024&amp;month=3&amp;date=28&amp;flightId=1242987253,SIN,Singapore,
+2024-03-28T05:30:00.000Z,9:30AM,09:30,12:30PM,12:30,VJC,VietJet Air,855,,/flight-tracker/VJC/855?year=2024&amp;month=3&amp;date=28&amp;flightId=1243071369,SGN,Ho Chi Minh City,
+2024-03-28T05:30:00.000Z,1:55PM,13:55,3:35PM,15:35,JT*,Lion Air,371,,/flight-tracker/JT*/371?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034712,BTH,Batam,
+2024-03-28T05:35:00.000Z,8:10AM,08:10,12:35PM,12:35,MF,Xiamen Airlines,855,,/flight-tracker/MF/855?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042294,FOC,Fuzhou,
+2024-03-28T05:35:00.000Z,8:10AM,08:10,12:35PM,12:35,GA,Garuda Indonesia,9736,Operated by Xiamen Airlines 855,/flight-tracker/GA/9736?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042294,FOC,Fuzhou,TRUE
+2024-03-28T05:35:00.000Z,8:25AM,08:25,12:35PM,12:35,CZ,China Southern Airlines,3037,,/flight-tracker/CZ/3037?year=2024&amp;month=3&amp;date=28&amp;flightId=1243009179,CAN,Guangzhou,
+2024-03-28T05:35:00.000Z,11:50AM,11:50,12:35PM,12:35,QZ,Indonesia AirAsia,267,,/flight-tracker/QZ/267?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054992,SIN,Singapore,
+2024-03-28T05:35:00.000Z,11:20AM,11:20,12:35PM,12:35,ID*,Batik Air,7365,,/flight-tracker/ID*/7365?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031372,SOC,Surakarta,
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,GA,Garuda Indonesia,641,,/flight-tracker/GA/641?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,CI,China Airlines,9661,Operated by Garuda Indonesia 641,/flight-tracker/CI/9661?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,EK,Emirates,7301,Operated by Garuda Indonesia 641,/flight-tracker/EK/7301?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,EY,Etihad Airways,7142,Operated by Garuda Indonesia 641,/flight-tracker/EY/7142?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,MH,Malaysia Airlines,4021,Operated by Garuda Indonesia 641,/flight-tracker/MH/4021?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,NH,ANA,5538,Operated by Garuda Indonesia 641,/flight-tracker/NH/5538?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,11:10AM,11:10,12:40PM,12:40,SV,Saudia,6375,Operated by Garuda Indonesia 641,/flight-tracker/SV/6375?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026545,UPG,Ujung Pandang,TRUE
+2024-03-28T05:40:00.000Z,10:45AM,10:45,12:40PM,12:40,GA,Garuda Indonesia,175,,/flight-tracker/GA/175?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026387,PKU,Pekanbaru,
+2024-03-28T05:40:00.000Z,10:45AM,10:45,12:40PM,12:40,CI,China Airlines,9689,Operated by Garuda Indonesia 175,/flight-tracker/CI/9689?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026387,PKU,Pekanbaru,TRUE
+2024-03-28T05:40:00.000Z,11:55AM,11:55,12:40PM,12:40,SJV,Super Air Jet,623,,/flight-tracker/SJV/623?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031901,BDJ,Banjarmasin,
+2024-03-28T05:40:00.000Z,10:55AM,10:55,12:40PM,12:40,SJV,Super Air Jet,371,,/flight-tracker/SJV/371?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031839,BWX,Banyuwangi,
+2024-03-28T05:40:00.000Z,11:00AM,11:00,12:40PM,12:40,JT*,Lion Air,671,,/flight-tracker/JT*/671?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034778,PKY,Palangkaraya,
+2024-03-28T05:40:00.000Z,11:15AM,11:15,12:40PM,12:40,JT*,Lion Air,833,,/flight-tracker/JT*/833?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034874,PNK,Pontianak,
+2024-03-28T05:40:00.000Z,11:30AM,11:30,12:40PM,12:40,ID*,Batik Air,6379,,/flight-tracker/ID*/6379?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031255,YIA,Yogyakarta,
+2024-03-28T05:45:00.000Z,10:45AM,10:45,12:45PM,12:45,ID*,Batik Air,7780,,/flight-tracker/ID*/7780?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031410,SOQ,Sorong,
+2024-03-28T05:45:00.000Z,11:15AM,11:15,12:45PM,12:45,ID*,Batik Air,6593,,/flight-tracker/ID*/6593?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031273,SUB,Surabaya,
+2024-03-28T05:45:00.000Z,11:15AM,11:15,12:45PM,12:45,CTV,Citilink,751,,/flight-tracker/CTV/751?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053647,MLG,Malang,
+2024-03-28T05:50:00.000Z,11:30AM,11:30,12:50PM,12:50,ID*,Batik Air,6525,,/flight-tracker/ID*/6525?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031202,LBJ,Labuan Bajo,
+2024-03-28T05:50:00.000Z,10:30AM,10:30,12:50PM,12:50,JT*,Lion Air,201,,/flight-tracker/JT*/201?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034598,KNO,Kuala Namu,
+2024-03-28T05:50:00.000Z,11:20AM,11:20,12:50PM,12:50,JT*,Lion Air,697,,/flight-tracker/JT*/697?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034808,SUB,Surabaya,
+2024-03-28T05:50:00.000Z,11:25AM,11:25,12:50PM,12:50,GA,Garuda Indonesia,127,,/flight-tracker/GA/127?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026401,DJB,Jambi,
+2024-03-28T05:50:00.000Z,11:30AM,11:30,12:50PM,12:50,SJV,Super Air Jet,841,,/flight-tracker/SJV/841?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031989,DJB,Jambi,
+2024-03-28T05:50:00.000Z,11:45AM,11:45,12:50PM,12:50,ID*,Batik Air,6847,,/flight-tracker/ID*/6847?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031306,PGK,Pangkal Pinang,
+2024-03-28T05:55:00.000Z,10:30AM,10:30,12:55PM,12:55,GA,Garuda Indonesia,185,,/flight-tracker/GA/185?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026384,KNO,Kuala Namu,
+2024-03-28T05:55:00.000Z,10:30AM,10:30,12:55PM,12:55,CI,China Airlines,9673,Operated by Garuda Indonesia 185,/flight-tracker/CI/9673?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026384,KNO,Kuala Namu,TRUE
+2024-03-28T05:55:00.000Z,10:30AM,10:30,12:55PM,12:55,EK,Emirates,7267,Operated by Garuda Indonesia 185,/flight-tracker/EK/7267?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026384,KNO,Kuala Namu,TRUE
+2024-03-28T05:55:00.000Z,10:30AM,10:30,12:55PM,12:55,EY,Etihad Airways,7126,Operated by Garuda Indonesia 185,/flight-tracker/EY/7126?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026384,KNO,Kuala Namu,TRUE
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,GA,Garuda Indonesia,407,,/flight-tracker/GA/407?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,EK,Emirates,7295,Operated by Garuda Indonesia 407,/flight-tracker/EK/7295?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,TRUE
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,EY,Etihad Airways,7109,Operated by Garuda Indonesia 407,/flight-tracker/EY/7109?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,TRUE
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,KL,KLM,4037,Operated by Garuda Indonesia 407,/flight-tracker/KL/4037?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,TRUE
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,TK,Turkish Airlines,9367,Operated by Garuda Indonesia 407,/flight-tracker/TK/9367?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,TRUE
+2024-03-28T05:55:00.000Z,12:00PM,12:00,12:55PM,12:55,VN,Vietnam Airlines,3879,Operated by Garuda Indonesia 407,/flight-tracker/VN/3879?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026477,DPS,Denpasar,TRUE
+2024-03-28T06:00:00.000Z,8:40AM,08:40,1:00PM,13:00,VJC,VietJet Air,929,,/flight-tracker/VJC/929?year=2024&amp;month=3&amp;date=28&amp;flightId=1243071400,HAN,Hanoi,
+2024-03-28T06:00:00.000Z,11:45AM,11:45,1:00PM,13:00,AK,AirAsia,351,,/flight-tracker/AK/351?year=2024&amp;month=3&amp;date=28&amp;flightId=1242999150,KUL,Kuala Lumpur,
+2024-03-28T06:00:00.000Z,11:45AM,11:45,1:00PM,13:00,GA,Garuda Indonesia,137,,/flight-tracker/GA/137?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026400,PGK,Pangkal Pinang,
+2024-03-28T06:00:00.000Z,11:55AM,11:55,1:00PM,13:00,SJ,Sriwijaya Air,73,,/flight-tracker/SJ/73?year=2024&amp;month=3&amp;date=28&amp;flightId=1243056969,PGK,Pangkal Pinang,
+2024-03-28T06:05:00.000Z,12:15PM,12:15,1:05PM,13:05,CTV,Citilink,667,,/flight-tracker/CTV/667?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053566,DPS,Denpasar,
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,CTV,Citilink,717,,/flight-tracker/CTV/717?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053649,SUB,Surabaya,
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,GA,Garuda Indonesia,327,,/flight-tracker/GA/327?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026450,SUB,Surabaya,
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,EK,Emirates,7313,Operated by Garuda Indonesia 327,/flight-tracker/EK/7313?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026450,SUB,Surabaya,TRUE
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,EY,Etihad Airways,8148,Operated by Garuda Indonesia 327,/flight-tracker/EY/8148?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026450,SUB,Surabaya,TRUE
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,MH,Malaysia Airlines,4029,Operated by Garuda Indonesia 327,/flight-tracker/MH/4029?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026450,SUB,Surabaya,TRUE
+2024-03-28T06:10:00.000Z,11:35AM,11:35,1:10PM,13:10,VN,Vietnam Airlines,3873,Operated by Garuda Indonesia 327,/flight-tracker/VN/3873?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026450,SUB,Surabaya,TRUE
+2024-03-28T06:10:00.000Z,12:05PM,12:05,1:10PM,13:10,ID*,Batik Air,6343,,/flight-tracker/ID*/6343?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031147,SRG,Semarang,
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,GA,Garuda Indonesia,829,,/flight-tracker/GA/829?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,AF,Air France,3932,Operated by Garuda Indonesia 829,/flight-tracker/AF/3932?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,EY,Etihad Airways,8134,Operated by Garuda Indonesia 829,/flight-tracker/EY/8134?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,MF,Xiamen Airlines,9505,Operated by Garuda Indonesia 829,/flight-tracker/MF/9505?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,SQ,Singapore Airlines,5569,Operated by Garuda Indonesia 829,/flight-tracker/SQ/5569?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:15PM,12:15,1:15PM,13:15,VN,Vietnam Airlines,2951,Operated by Garuda Indonesia 829,/flight-tracker/VN/2951?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026527,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,SQ,Singapore Airlines,958,,/flight-tracker/SQ/958?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,GA,Garuda Indonesia,8958,Operated by Singapore Airlines 958,/flight-tracker/GA/8958?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,SK,SAS,8035,Operated by Singapore Airlines 958,/flight-tracker/SK/8035?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,UA,United Airlines,7678,Operated by Singapore Airlines 958,/flight-tracker/UA/7678?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,UK*,Vistara,8958,Operated by Singapore Airlines 958,/flight-tracker/UK*/8958?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,TRUE
+2024-03-28T06:15:00.000Z,12:30PM,12:30,1:15PM,13:15,VA,Virgin Australia,5826,Operated by Singapore Airlines 958,/flight-tracker/VA/5826?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058217,SIN,Singapore,TRUE
+2024-03-28T06:20:00.000Z,9:00AM,09:00,1:20PM,13:20,BR,EVA Air,237,,/flight-tracker/BR/237?year=2024&amp;month=3&amp;date=28&amp;flightId=1243005748,TPE,Taipei,
+2024-03-28T06:20:00.000Z,9:20AM,09:20,1:20PM,13:20,CX,Cathay Pacific,777,,/flight-tracker/CX/777?year=2024&amp;month=3&amp;date=28&amp;flightId=1243009103,HKG,Hong Kong,
+2024-03-28T06:20:00.000Z,9:20AM,09:20,1:20PM,13:20,AA,American Airlines,8913,Operated by Cathay Pacific 777,/flight-tracker/AA/8913?year=2024&amp;month=3&amp;date=28&amp;flightId=1243009103,HKG,Hong Kong,TRUE
+2024-03-28T06:20:00.000Z,9:20AM,09:20,1:20PM,13:20,BA,British Airways,4141,Operated by Cathay Pacific 777,/flight-tracker/BA/4141?year=2024&amp;month=3&amp;date=28&amp;flightId=1243009103,HKG,Hong Kong,TRUE
+2024-03-28T06:20:00.000Z,9:20AM,09:20,1:20PM,13:20,QR,Qatar Airways,3483,Operated by Cathay Pacific 777,/flight-tracker/QR/3483?year=2024&amp;month=3&amp;date=28&amp;flightId=1243009103,HKG,Hong Kong,TRUE
+2024-03-28T06:20:00.000Z,11:35AM,11:35,1:20PM,13:20,ID*,Batik Air,6849,,/flight-tracker/ID*/6849?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031302,PKU,Pekanbaru,
+2024-03-28T06:20:00.000Z,11:45AM,11:45,1:20PM,13:20,ID*,Batik Air,6825,,/flight-tracker/ID*/6825?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031317,TNJ,Tanjung Pinang,
+2024-03-28T06:25:00.000Z,12:00PM,12:00,1:25PM,13:25,GA,Garuda Indonesia,605,,/flight-tracker/GA/605?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026513,UPG,Ujung Pandang,
+2024-03-28T06:25:00.000Z,12:00PM,12:00,1:25PM,13:25,EY,Etihad Airways,7137,Operated by Garuda Indonesia 605,/flight-tracker/EY/7137?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026513,UPG,Ujung Pandang,TRUE
+2024-03-28T06:25:00.000Z,12:15PM,12:15,1:25PM,13:25,6D,Pelita Air Service,603,,/flight-tracker/6D/603?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031658,BPN,Balikpapan,
+2024-03-28T06:30:00.000Z,2:40AM,02:40,1:30PM,13:30,WY,Oman Air,849,,/flight-tracker/WY/849?year=2024&amp;month=3&amp;date=28&amp;flightId=1243079201,MCT,Muscat,
+2024-03-28T06:30:00.000Z,2:40AM,02:40,1:30PM,13:30,GA,Garuda Indonesia,9504,Operated by Oman Air 849,/flight-tracker/GA/9504?year=2024&amp;month=3&amp;date=28&amp;flightId=1243079201,MCT,Muscat,TRUE
+2024-03-28T06:30:00.000Z,2:40AM,02:40,1:30PM,13:30,GF,Gulf Air,5549,Operated by Oman Air 849,/flight-tracker/GF/5549?year=2024&amp;month=3&amp;date=28&amp;flightId=1243079201,MCT,Muscat,TRUE
+2024-03-28T06:30:00.000Z,11:30AM,11:30,1:30PM,13:30,RI*,Rimbun Air,612,,/flight-tracker/RI*/612?year=2024&amp;month=3&amp;date=28&amp;flightId=1243055178,BTH,Batam,
+2024-03-28T06:30:00.000Z,11:50AM,11:50,1:30PM,13:30,ID*,Batik Air,6865,,/flight-tracker/ID*/6865?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031322,BTH,Batam,
+2024-03-28T06:30:00.000Z,12:10PM,12:10,1:30PM,13:30,CTV,Citilink,793,,/flight-tracker/CTV/793?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053686,SRG,Semarang,
+2024-03-28T06:30:00.000Z,12:20PM,12:20,1:30PM,13:30,SJV,Super Air Jet,879,,/flight-tracker/SJV/879?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032028,PLM,Palembang,
+2024-03-28T06:35:00.000Z,12:45PM,12:45,1:35PM,13:35,ID*,Batik Air,6517,,/flight-tracker/ID*/6517?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031239,DPS,Denpasar,
+2024-03-28T06:40:00.000Z,9:15AM,09:15,1:40PM,13:40,CI,China Airlines,761,,/flight-tracker/CI/761?year=2024&amp;month=3&amp;date=28&amp;flightId=1243008331,TPE,Taipei,
+2024-03-28T06:40:00.000Z,9:15AM,09:15,1:40PM,13:40,GA,Garuda Indonesia,9981,Operated by China Airlines 761,/flight-tracker/GA/9981?year=2024&amp;month=3&amp;date=28&amp;flightId=1243008331,TPE,Taipei,TRUE
+2024-03-28T06:45:00.000Z,11:50AM,11:50,1:45PM,13:45,ID*,Batik Air,6543,,/flight-tracker/ID*/6543?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031218,KOE,Kupang,
+2024-03-28T06:45:00.000Z,12:35PM,12:35,1:45PM,13:45,GA,Garuda Indonesia,567,,/flight-tracker/GA/567?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026509,BPN,Balikpapan,
+2024-03-28T06:45:00.000Z,12:35PM,12:35,1:45PM,13:45,EY,Etihad Airways,8204,Operated by Garuda Indonesia 567,/flight-tracker/EY/8204?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026509,BPN,Balikpapan,TRUE
+2024-03-28T06:45:00.000Z,12:35PM,12:35,1:45PM,13:45,KL,KLM,4070,Operated by Garuda Indonesia 567,/flight-tracker/KL/4070?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026509,BPN,Balikpapan,TRUE
+2024-03-28T06:45:00.000Z,12:35PM,12:35,1:45PM,13:45,NH,ANA,5534,Operated by Garuda Indonesia 567,/flight-tracker/NH/5534?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026509,BPN,Balikpapan,TRUE
+2024-03-28T06:45:00.000Z,12:50PM,12:50,1:45PM,13:45,6D,Pelita Air Service,103,,/flight-tracker/6D/103?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031631,DPS,Denpasar,
+2024-03-28T06:50:00.000Z,10:35AM,10:35,1:50PM,13:50,VN,Vietnam Airlines,631,,/flight-tracker/VN/631?year=2024&amp;month=3&amp;date=28&amp;flightId=1243071745,SGN,Ho Chi Minh City,
+2024-03-28T06:50:00.000Z,10:35AM,10:35,1:50PM,13:50,GA,Garuda Indonesia,9460,Operated by Vietnam Airlines 631,/flight-tracker/GA/9460?year=2024&amp;month=3&amp;date=28&amp;flightId=1243071745,SGN,Ho Chi Minh City,TRUE
+2024-03-28T06:50:00.000Z,11:25AM,11:25,1:50PM,13:50,CTV,Citilink,917,,/flight-tracker/CTV/917?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053694,KNO,Kuala Namu,
+2024-03-28T06:50:00.000Z,8:30AM,08:30,10:50AM,10:50,JT*,Lion Air,205,,/flight-tracker/JT*/205?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034596,KNO,Kuala Namu,
+2024-03-28T06:50:00.000Z,12:00PM,12:00,1:50PM,13:50,SJV,Super Air Jet,815,,/flight-tracker/SJV/815?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031967,PDG,Padang,
+2024-03-28T06:50:00.000Z,12:20PM,12:20,1:50PM,13:50,JT*,Lion Air,689,,/flight-tracker/JT*/689?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034772,PNK,Pontianak,
+2024-03-28T06:50:00.000Z,12:30PM,12:30,1:50PM,13:50,SJV,Super Air Jet,843,,/flight-tracker/SJV/843?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031991,DJB,Jambi,
+2024-03-28T06:55:00.000Z,12:55PM,12:55,1:55PM,13:55,ID*,Batik Air,6659,,/flight-tracker/ID*/6659?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031278,LOP,Praya,
+2024-03-28T06:55:00.000Z,12:00PM,12:00,1:55PM,13:55,GA,Garuda Indonesia,149,,/flight-tracker/GA/149?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026395,PDG,Padang,
+2024-03-28T06:55:00.000Z,12:00PM,12:00,1:55PM,13:55,EK,Emirates,7259,Operated by Garuda Indonesia 149,/flight-tracker/EK/7259?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026395,PDG,Padang,TRUE
+2024-03-28T06:55:00.000Z,12:00PM,12:00,1:55PM,13:55,EY,Etihad Airways,7133,Operated by Garuda Indonesia 149,/flight-tracker/EY/7133?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026395,PDG,Padang,TRUE
+2024-03-28T06:55:00.000Z,12:10PM,12:10,1:55PM,13:55,GA,Garuda Indonesia,155,,/flight-tracker/GA/155?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026393,BTH,Batam,
+2024-03-28T06:55:00.000Z,12:40PM,12:40,1:55PM,13:55,SJV,Super Air Jet,835,,/flight-tracker/SJV/835?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031985,BKS,Bengkulu,
+2024-03-28T06:55:00.000Z,12:45PM,12:45,1:55PM,13:55,GA,Garuda Indonesia,1374,,/flight-tracker/GA/1374?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026406,PGK,Pangkal Pinang,
+2024-03-28T07:00:00.000Z,12:35PM,12:35,2:00PM,14:00,JT*,Lion Air,891,,/flight-tracker/JT*/891?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034906,UPG,Ujung Pandang,
+2024-03-28T07:00:00.000Z,1:05PM,13:05,2:15PM,14:15,GA,Garuda Indonesia,821,,/flight-tracker/GA/821?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026536,KUL,Kuala Lumpur,
+2024-03-28T07:00:00.000Z,1:05PM,13:05,2:15PM,14:15,MH,Malaysia Airlines,5893,Operated by Garuda Indonesia 821,/flight-tracker/MH/5893?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026536,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:00:00.000Z,1:05PM,13:05,2:15PM,14:15,SV,Saudia,6381,Operated by Garuda Indonesia 821,/flight-tracker/SV/6381?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026536,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:00:00.000Z,1:05PM,13:05,2:15PM,14:15,WY,Oman Air,5711,Operated by Garuda Indonesia 821,/flight-tracker/WY/5711?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026536,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:00:00.000Z,1:10PM,13:10,2:00PM,14:00,JT*,Lion Air,325,,/flight-tracker/JT*/325?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034684,BDJ,Banjarmasin,
+2024-03-28T07:00:00.000Z,12:45PM,12:45,2:00PM,14:00,CTV,Citilink,965,,/flight-tracker/CTV/965?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053764,DJB,Jambi,
+2024-03-28T07:00:00.000Z,12:50PM,12:50,2:00PM,14:00,ID*,Batik Air,6345,,/flight-tracker/ID*/6345?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031182,YIA,Yogyakarta,
+2024-03-28T07:05:00.000Z,11:05AM,11:05,2:05PM,14:05,GA,Garuda Indonesia,141,,/flight-tracker/GA/141?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026404,BTJ,Banda Aceh,
+2024-03-28T07:05:00.000Z,5:15PM,17:15,6:20PM,18:20,JT*,Lion Air,757,,/flight-tracker/JT*/757?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034826,BPN,Balikpapan,
+2024-03-28T07:05:00.000Z,1:10PM,13:10,2:05PM,14:05,QZ,Indonesia AirAsia,205,,/flight-tracker/QZ/205?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054955,KUL,Kuala Lumpur,
+2024-03-28T07:10:00.000Z,1:05PM,13:05,2:10PM,14:10,ID*,Batik Air,6337,,/flight-tracker/ID*/6337?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031201,SRG,Semarang,
+2024-03-28T07:15:00.000Z,3:05AM,03:05,2:15PM,14:15,EY,Etihad Airways,474,,/flight-tracker/EY/474?year=2024&amp;month=3&amp;date=28&amp;flightId=1243019806,AUH,Abu Dhabi,
+2024-03-28T07:15:00.000Z,3:05AM,03:05,2:15PM,14:15,GA,Garuda Indonesia,9046,Operated by Etihad Airways 474,/flight-tracker/GA/9046?year=2024&amp;month=3&amp;date=28&amp;flightId=1243019806,AUH,Abu Dhabi,TRUE
+2024-03-28T07:15:00.000Z,3:05AM,03:05,2:15PM,14:15,MS,EgyptAir,8126,Operated by Etihad Airways 474,/flight-tracker/MS/8126?year=2024&amp;month=3&amp;date=28&amp;flightId=1243019806,AUH,Abu Dhabi,TRUE
+2024-03-28T07:15:00.000Z,3:05AM,03:05,2:15PM,14:15,XY,Flynas,3474,Operated by Etihad Airways 474,/flight-tracker/XY/3474?year=2024&amp;month=3&amp;date=28&amp;flightId=1243019806,AUH,Abu Dhabi,TRUE
+2024-03-28T07:15:00.000Z,1:20PM,13:20,2:15PM,14:15,SJV,Super Air Jet,733,,/flight-tracker/SJV/733?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031941,DPS,Denpasar,
+2024-03-28T07:20:00.000Z,12:30AM,00:30,2:20PM,14:20,GA,Garuda Indonesia,983,,/flight-tracker/GA/983?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026554,JED,Jeddah,
+2024-03-28T07:20:00.000Z,12:30AM,00:30,2:20PM,14:20,SV,Saudia,6193,Operated by Garuda Indonesia 983,/flight-tracker/SV/6193?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026554,JED,Jeddah,TRUE
+2024-03-28T07:20:00.000Z,12:55PM,12:55,2:20PM,14:20,ID*,Batik Air,6563,,/flight-tracker/ID*/6563?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031229,PLW,Palu,
+2024-03-28T07:20:00.000Z,12:10PM,12:10,2:20PM,14:20,ID*,Batik Air,6835,,/flight-tracker/ID*/6835?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031304,DTB,Siborong-Borong,
+2024-03-28T07:20:00.000Z,12:35PM,12:35,2:20PM,14:20,ID*,Batik Air,6857,,/flight-tracker/ID*/6857?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031301,PKU,Pekanbaru,
+2024-03-28T07:25:00.000Z,6:25AM,06:25,2:25PM,14:25,6E,IndiGo,1601,,/flight-tracker/6E/1601?year=2024&amp;month=3&amp;date=28&amp;flightId=1242984862,BOM,Mumbai,
+2024-03-28T07:25:00.000Z,12:00PM,12:00,2:25PM,14:25,SJV,Super Air Jet,897,,/flight-tracker/SJV/897?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032016,KNO,Kuala Namu,
+2024-03-28T07:30:00.000Z,1:10PM,13:10,2:30PM,14:30,ID*,Batik Air,6183,,/flight-tracker/ID*/6183?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031189,UPG,Ujung Pandang,
+2024-03-28T07:30:00.000Z,1:10PM,13:10,2:30PM,14:30,ID*,Batik Air,6527,,/flight-tracker/ID*/6527?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031195,LBJ,Labuan Bajo,
+2024-03-28T07:30:00.000Z,1:25PM,13:25,3:00PM,15:00,GA,Garuda Indonesia,2914,,/flight-tracker/GA/2914?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026416,MLG,Malang,
+2024-03-28T07:30:00.000Z,1:25PM,13:25,2:30PM,14:30,IN*,Nam Air,57,,/flight-tracker/IN*/57?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031566,TJQ,Tanjung Pandan,
+2024-03-28T07:35:00.000Z,1:50PM,13:50,2:35PM,14:35,TNU,TransNusa,5107,,/flight-tracker/TNU/5107?year=2024&amp;month=3&amp;date=28&amp;flightId=1242987264,DPS,Denpasar,
+2024-03-28T07:35:00.000Z,12:55PM,12:55,2:35PM,14:35,JT*,Lion Air,867,,/flight-tracker/JT*/867?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034905,PKY,Palangkaraya,
+2024-03-28T07:35:00.000Z,1:45PM,13:45,2:35PM,14:35,GA,Garuda Indonesia,75,,/flight-tracker/GA/75?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026516,TKG,Bandar Lampung,
+2024-03-28T07:35:00.000Z,1:45PM,13:45,2:35PM,14:35,MH,Malaysia Airlines,5899,Operated by Garuda Indonesia 75,/flight-tracker/MH/5899?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026516,TKG,Bandar Lampung,TRUE
+2024-03-28T07:40:00.000Z,1:25PM,13:25,2:40PM,14:40,CTV,Citilink,973,,/flight-tracker/CTV/973?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053763,PGK,Pangkal Pinang,
+2024-03-28T07:45:00.000Z,1:25PM,13:25,2:45PM,14:45,JT*,Lion Air,985,,/flight-tracker/JT*/985?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034970,UPG,Ujung Pandang,
+2024-03-28T07:45:00.000Z,1:35PM,13:35,2:45PM,14:45,AK,AirAsia,384,,/flight-tracker/AK/384?year=2024&amp;month=3&amp;date=28&amp;flightId=1242999146,KUL,Kuala Lumpur,
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,MH,Malaysia Airlines,721,,/flight-tracker/MH/721?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,FY,Firefly,7387,Operated by Malaysia Airlines 721,/flight-tracker/FY/7387?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,GA,Garuda Indonesia,9271,Operated by Malaysia Airlines 721,/flight-tracker/GA/9271?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,QR,Qatar Airways,5000,Operated by Malaysia Airlines 721,/flight-tracker/QR/5000?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,UL,SriLankan Airlines,2721,Operated by Malaysia Airlines 721,/flight-tracker/UL/2721?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:45:00.000Z,1:40PM,13:40,2:45PM,14:45,WY,Oman Air,5713,Operated by Malaysia Airlines 721,/flight-tracker/WY/5713?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042800,KUL,Kuala Lumpur,TRUE
+2024-03-28T07:45:00.000Z,1:00PM,13:00,2:45PM,14:45,SJV,Super Air Jet,865,,/flight-tracker/SJV/865?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031981,PKU,Pekanbaru,
+2024-03-28T07:45:00.000Z,1:05PM,13:05,2:45PM,14:45,SJV,Super Air Jet,859,,/flight-tracker/SJV/859?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032038,BTH,Batam,
+2024-03-28T07:45:00.000Z,1:15PM,13:15,2:45PM,14:45,JT*,Lion Air,685,,/flight-tracker/JT*/685?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034771,PNK,Pontianak,
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,GA,Garuda Indonesia,409,,/flight-tracker/GA/409?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,EK,Emirates,7252,Operated by Garuda Indonesia 409,/flight-tracker/EK/7252?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,EY,Etihad Airways,7112,Operated by Garuda Indonesia 409,/flight-tracker/EY/7112?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,KL,KLM,4039,Operated by Garuda Indonesia 409,/flight-tracker/KL/4039?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,SV,Saudia,6366,Operated by Garuda Indonesia 409,/flight-tracker/SV/6366?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,TK,Turkish Airlines,9369,Operated by Garuda Indonesia 409,/flight-tracker/TK/9369?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,1:50PM,13:50,2:50PM,14:50,VN,Vietnam Airlines,3935,Operated by Garuda Indonesia 409,/flight-tracker/VN/3935?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026473,DPS,Denpasar,TRUE
+2024-03-28T07:50:00.000Z,2:00PM,14:00,2:50PM,14:50,6D,Pelita Air Service,613,,/flight-tracker/6D/613?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031678,BDJ,Banjarmasin,
+2024-03-28T07:50:00.000Z,1:15PM,13:15,2:50PM,14:50,ID*,Batik Air,6595,,/flight-tracker/ID*/6595?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031265,SUB,Surabaya,
+2024-03-28T07:50:00.000Z,3:15PM,15:15,4:25PM,16:25,ID*,Batik Air,6371,,/flight-tracker/ID*/6371?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031262,YIA,Yogyakarta,
+2024-03-28T07:55:00.000Z,11:20AM,11:20,2:55PM,14:55,QZ,Indonesia AirAsia,251,,/flight-tracker/QZ/251?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054964,DMK,Bangkok,
+2024-03-28T07:55:00.000Z,1:45PM,13:45,2:55PM,14:55,ID*,Batik Air,6257,,/flight-tracker/ID*/6257?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031246,AAP,Samarinda,
+2024-03-28T07:55:00.000Z,1:20PM,13:20,2:55PM,14:55,6D,Pelita Air Service,205,,/flight-tracker/6D/205?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031617,SUB,Surabaya,
+2024-03-28T07:55:00.000Z,1:40PM,13:40,2:55PM,14:55,GA,Garuda Indonesia,209,,/flight-tracker/GA/209?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026431,YIA,Yogyakarta,
+2024-03-28T07:55:00.000Z,1:40PM,13:40,2:55PM,14:55,CI,China Airlines,9675,Operated by Garuda Indonesia 209,/flight-tracker/CI/9675?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026431,YIA,Yogyakarta,TRUE
+2024-03-28T07:55:00.000Z,1:40PM,13:40,2:55PM,14:55,KL,KLM,4065,Operated by Garuda Indonesia 209,/flight-tracker/KL/4065?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026431,YIA,Yogyakarta,TRUE
+2024-03-28T07:55:00.000Z,1:40PM,13:40,2:55PM,14:55,MH,Malaysia Airlines,4025,Operated by Garuda Indonesia 209,/flight-tracker/MH/4025?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026431,YIA,Yogyakarta,TRUE
+2024-03-28T07:55:00.000Z,1:40PM,13:40,2:55PM,14:55,NH,ANA,5554,Operated by Garuda Indonesia 209,/flight-tracker/NH/5554?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026431,YIA,Yogyakarta,TRUE
+2024-03-28T08:00:00.000Z,1:50PM,13:50,3:00PM,15:00,CTV,Citilink,633,,/flight-tracker/CTV/633?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053598,LBJ,Labuan Bajo,
+2024-03-28T08:00:00.000Z,1:55PM,13:55,3:00PM,15:00,ID*,Batik Air,7283,,/flight-tracker/ID*/7283?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031349,KUL,Kuala Lumpur,
+2024-03-28T08:00:00.000Z,1:20PM,13:20,3:00PM,15:00,JT*,Lion Air,901,,/flight-tracker/JT*/901?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034951,BTH,Batam,
+2024-03-28T08:00:00.000Z,1:50PM,13:50,3:00PM,15:00,CTV,Citilink,761,,/flight-tracker/CTV/761?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053633,SOC,Surakarta,
+2024-03-28T08:00:00.000Z,2:10PM,14:10,3:00PM,15:00,JT*,Lion Air,243,,/flight-tracker/JT*/243?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034628,TKG,Bandar Lampung,
+2024-03-28T08:00:00.000Z,2:10PM,14:10,3:00PM,15:00,QZ,Indonesia AirAsia,181,,/flight-tracker/QZ/181?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054948,TKG,Bandar Lampung,
+2024-03-28T08:05:00.000Z,12:50PM,12:50,3:15PM,15:15,GA,Garuda Indonesia,187,,/flight-tracker/GA/187?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026389,KNO,Kuala Namu,
+2024-03-28T08:05:00.000Z,12:50PM,12:50,3:15PM,15:15,EY,Etihad Airways,8137,Operated by Garuda Indonesia 187,/flight-tracker/EY/8137?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026389,KNO,Kuala Namu,TRUE
+2024-03-28T08:05:00.000Z,1:15PM,13:15,3:05PM,15:05,SJV,Super Air Jet,903,,/flight-tracker/SJV/903?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032023,PDG,Padang,
+2024-03-28T08:05:00.000Z,2:00PM,14:00,3:05PM,15:05,SJ,Sriwijaya Air,55,,/flight-tracker/SJ/55?year=2024&amp;month=3&amp;date=28&amp;flightId=1243056889,TJQ,Tanjung Pandan,
+2024-03-28T08:10:00.000Z,2:15PM,14:15,3:10PM,15:10,SJV,Super Air Jet,753,,/flight-tracker/SJV/753?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031943,DPS,Denpasar,
+2024-03-28T08:10:00.000Z,1:30PM,13:30,3:10PM,15:10,CTV,Citilink,937,,/flight-tracker/CTV/937?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053720,PKU,Pekanbaru,
+2024-03-28T08:10:00.000Z,1:35PM,13:35,3:10PM,15:10,GA,Garuda Indonesia,317,,/flight-tracker/GA/317?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026423,SUB,Surabaya,
+2024-03-28T08:10:00.000Z,1:35PM,13:35,3:10PM,15:10,EY,Etihad Airways,8147,Operated by Garuda Indonesia 317,/flight-tracker/EY/8147?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026423,SUB,Surabaya,TRUE
+2024-03-28T08:10:00.000Z,1:35PM,13:35,3:10PM,15:10,MH,Malaysia Airlines,4017,Operated by Garuda Indonesia 317,/flight-tracker/MH/4017?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026423,SUB,Surabaya,TRUE
+2024-03-28T08:10:00.000Z,1:35PM,13:35,3:10PM,15:10,VN,Vietnam Airlines,3871,Operated by Garuda Indonesia 317,/flight-tracker/VN/3871?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026423,SUB,Surabaya,TRUE
+2024-03-28T08:15:00.000Z,1:35PM,13:35,3:15PM,15:15,CTV,Citilink,251,,/flight-tracker/CTV/251?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053516,UPG,Ujung Pandang,
+2024-03-28T08:15:00.000Z,1:30PM,13:30,3:15PM,15:15,ID*,Batik Air,6591,,/flight-tracker/ID*/6591?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031288,BWX,Banyuwangi,
+2024-03-28T08:15:00.000Z,2:00PM,14:00,3:15PM,15:15,ID*,Batik Air,7367,,/flight-tracker/ID*/7367?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031370,SOC,Surakarta,
+2024-03-28T08:15:00.000Z,2:10PM,14:10,3:15PM,15:15,SJV,Super Air Jet,823,,/flight-tracker/SJV/823?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031953,PGK,Pangkal Pinang,
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,QR,Qatar Airways,956,,/flight-tracker/QR/956?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,AA,American Airlines,8173,Operated by Qatar Airways 956,/flight-tracker/AA/8173?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,AS,Alaska Airlines,5781,Operated by Qatar Airways 956,/flight-tracker/AS/5781?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,AY,Finnair,6667,Operated by Qatar Airways 956,/flight-tracker/AY/6667?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,B6,JetBlue,6535,Operated by Qatar Airways 956,/flight-tracker/B6/6535?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,BA,British Airways,6387,Operated by Qatar Airways 956,/flight-tracker/BA/6387?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,IB,Iberia,7962,Operated by Qatar Airways 956,/flight-tracker/IB/7962?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:45AM,02:45,3:20PM,15:20,WY,Oman Air,6159,Operated by Qatar Airways 956,/flight-tracker/WY/6159?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054691,DOH,Doha,TRUE
+2024-03-28T08:20:00.000Z,2:15PM,14:15,3:20PM,15:20,ID*,Batik Air,7160,,/flight-tracker/ID*/7160?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031367,PEN,Penang,
+2024-03-28T08:20:00.000Z,1:45PM,13:45,3:20PM,15:20,6D,Pelita Air Service,633,,/flight-tracker/6D/633?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031662,PNK,Pontianak,
+2024-03-28T08:25:00.000Z,1:10PM,13:10,3:25PM,15:25,ID*,Batik Air,6281,,/flight-tracker/ID*/6281?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031139,MDC,Manado,
+2024-03-28T08:25:00.000Z,2:30PM,14:30,3:25PM,15:25,ID*,Batik Air,7156,,/flight-tracker/ID*/7156?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031385,SIN,Singapore,
+2024-03-28T08:25:00.000Z,8:40AM,08:40,9:55AM,09:55,IN*,Nam Air,191,,/flight-tracker/IN*/191?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031570,PKN,Pangkalanbun,
+2024-03-28T08:25:00.000Z,2:20PM,14:20,3:25PM,15:25,ID*,Batik Air,6355,,/flight-tracker/ID*/6355?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031153,SRG,Semarang,
+2024-03-28T08:30:00.000Z,2:35PM,14:35,3:30PM,15:30,QZ,Indonesia AirAsia,261,,/flight-tracker/QZ/261?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054965,SIN,Singapore,
+2024-03-28T08:30:00.000Z,2:40PM,14:40,3:30PM,15:30,TNU,TransNusa,674,,/flight-tracker/TNU/674?year=2024&amp;month=3&amp;date=28&amp;flightId=1242987294,KUL,Kuala Lumpur,
+2024-03-28T08:30:00.000Z,2:05PM,14:05,3:30PM,15:30,GA,Garuda Indonesia,297,,/flight-tracker/GA/297?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026422,BKS,Bengkulu,
+2024-03-28T08:35:00.000Z,10:05AM,10:05,3:35PM,15:35,GA,Garuda Indonesia,895,,/flight-tracker/GA/895?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026559,PVG,Shanghai,
+2024-03-28T08:35:00.000Z,10:05AM,10:05,3:35PM,15:35,MU,China Eastern Airlines,8999,Operated by Garuda Indonesia 895,/flight-tracker/MU/8999?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026559,PVG,Shanghai,TRUE
+2024-03-28T08:35:00.000Z,2:15PM,14:15,3:35PM,15:35,JT*,Lion Air,797,,/flight-tracker/JT*/797?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034887,UPG,Ujung Pandang,
+2024-03-28T08:35:00.000Z,2:20PM,14:20,3:35PM,15:35,ID*,Batik Air,6821,,/flight-tracker/ID*/6821?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031297,WIPB,Lubuk Linggau,
+2024-03-28T08:35:00.000Z,2:30PM,14:30,3:35PM,15:35,SJV,Super Air Jet,765,,/flight-tracker/SJV/765?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031954,LOP,Praya,
+2024-03-28T08:40:00.000Z,2:40PM,14:40,3:40PM,15:40,CTV,Citilink,685,,/flight-tracker/CTV/685?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053570,DPS,Denpasar,
+2024-03-28T08:45:00.000Z,4:35AM,04:35,3:45PM,15:45,EK,Emirates,356,,/flight-tracker/EK/356?year=2024&amp;month=3&amp;date=28&amp;flightId=1243017930,DXB,Dubai,
+2024-03-28T08:45:00.000Z,4:35AM,04:35,3:45PM,15:45,BT,Air Baltic,5809,Operated by Emirates 356,/flight-tracker/BT/5809?year=2024&amp;month=3&amp;date=28&amp;flightId=1243017930,DXB,Dubai,TRUE
+2024-03-28T08:45:00.000Z,4:35AM,04:35,3:45PM,15:45,GA,Garuda Indonesia,8850,Operated by Emirates 356,/flight-tracker/GA/8850?year=2024&amp;month=3&amp;date=28&amp;flightId=1243017930,DXB,Dubai,TRUE
+2024-03-28T08:45:00.000Z,3:40PM,15:40,4:40PM,16:40,GA,Garuda Indonesia,433,,/flight-tracker/GA/433?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026457,LOP,Praya,
+2024-03-28T08:45:00.000Z,3:40PM,15:40,4:40PM,16:40,NH,ANA,5532,Operated by Garuda Indonesia 433,/flight-tracker/NH/5532?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026457,LOP,Praya,TRUE
+2024-03-28T08:50:00.000Z,12:40PM,12:40,3:50PM,15:50,GA,Garuda Indonesia,667,,/flight-tracker/GA/667?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026518,DJJ,Jayapura,
+2024-03-28T08:50:00.000Z,3:00PM,15:00,3:50PM,15:50,TNU,TransNusa,5103,,/flight-tracker/TNU/5103?year=2024&amp;month=3&amp;date=28&amp;flightId=1242987268,DPS,Denpasar,
+2024-03-28T08:50:00.000Z,2:30PM,14:30,3:50PM,15:50,CTV,Citilink,991,,/flight-tracker/CTV/991?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053740,BKS,Bengkulu,
+2024-03-28T08:50:00.000Z,2:30PM,14:30,3:50PM,15:50,JT*,Lion Air,603,,/flight-tracker/JT*/603?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034726,DJB,Jambi,
+2024-03-28T08:55:00.000Z,2:25PM,14:25,3:55PM,15:55,ID*,Batik Air,6675,,/flight-tracker/ID*/6675?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031283,TRK,Tarakan,
+2024-03-28T08:55:00.000Z,1:30PM,13:30,3:55PM,15:55,JT*,Lion Air,397,,/flight-tracker/JT*/397?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034696,KNO,Kuala Namu,
+2024-03-28T08:55:00.000Z,2:40PM,14:40,3:55PM,15:55,CTV,Citilink,425,,/flight-tracker/CTV/425?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053563,BPN,Balikpapan,
+2024-03-28T09:00:00.000Z,2:15PM,14:15,4:00PM,16:00,CTV,Citilink,943,,/flight-tracker/CTV/943?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053719,BTH,Batam,
+2024-03-28T09:00:00.000Z,2:25PM,14:25,4:00PM,16:00,GA,Garuda Indonesia,513,,/flight-tracker/GA/513?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026505,PNK,Pontianak,
+2024-03-28T09:00:00.000Z,2:45PM,14:45,4:00PM,16:00,JT*,Lion Air,637,,/flight-tracker/JT*/637?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034739,BKS,Bengkulu,
+2024-03-28T09:00:00.000Z,2:50PM,14:50,4:00PM,16:00,SJV,Super Air Jet,925,,/flight-tracker/SJV/925?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032032,PLM,Palembang,
+2024-03-28T09:05:00.000Z,2:45PM,14:45,4:05PM,16:05,ID*,Batik Air,6235,,/flight-tracker/ID*/6235?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031117,UPG,Ujung Pandang,
+2024-03-28T09:05:00.000Z,3:00PM,15:00,4:05PM,16:05,SJV,Super Air Jet,603,,/flight-tracker/SJV/603?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031855,BPN,Balikpapan,
+2024-03-28T09:10:00.000Z,3:15PM,15:15,4:10PM,16:10,QZ,Indonesia AirAsia,807,,/flight-tracker/QZ/807?year=2024&amp;month=3&amp;date=28&amp;flightId=1243055023,DPS,Denpasar,
+2024-03-28T09:10:00.000Z,2:40PM,14:40,4:10PM,16:10,CTV,Citilink,775,,/flight-tracker/CTV/775?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053637,YIA,Yogyakarta,
+2024-03-28T09:15:00.000Z,10:15AM,10:15,4:15PM,16:15,NH,ANA,855,,/flight-tracker/NH/855?year=2024&amp;month=3&amp;date=28&amp;flightId=1243046690,HND,Tokyo,
+2024-03-28T09:15:00.000Z,10:15AM,10:15,4:15PM,16:15,GA,Garuda Indonesia,9353,Operated by ANA 855,/flight-tracker/GA/9353?year=2024&amp;month=3&amp;date=28&amp;flightId=1243046690,HND,Tokyo,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,GA,Garuda Indonesia,833,,/flight-tracker/GA/833?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,EY,Etihad Airways,8135,Operated by Garuda Indonesia 833,/flight-tracker/EY/8135?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,PG,Bangkok Airways,4375,Operated by Garuda Indonesia 833,/flight-tracker/PG/4375?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,SQ,Singapore Airlines,5573,Operated by Garuda Indonesia 833,/flight-tracker/SQ/5573?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,SV,Saudia,6200,Operated by Garuda Indonesia 833,/flight-tracker/SV/6200?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,VN,Vietnam Airlines,3981,Operated by Garuda Indonesia 833,/flight-tracker/VN/3981?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026557,SIN,Singapore,TRUE
+2024-03-28T09:15:00.000Z,3:20PM,15:20,4:15PM,16:15,SJV,Super Air Jet,759,,/flight-tracker/SJV/759?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031976,DPS,Denpasar,
+2024-03-28T09:15:00.000Z,5:55PM,17:55,7:40PM,19:40,SJV,Super Air Jet,913,,/flight-tracker/SJV/913?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032012,PKU,Pekanbaru,
+2024-03-28T09:15:00.000Z,2:45PM,14:45,4:15PM,16:15,SJV,Super Air Jet,681,,/flight-tracker/SJV/681?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031891,PNK,Pontianak,
+2024-03-28T09:20:00.000Z,12:25PM,12:25,4:20PM,16:20,NX,Air Macau,910,,/flight-tracker/NX/910?year=2024&amp;month=3&amp;date=28&amp;flightId=1243048333,MFM,Macau,
+2024-03-28T09:20:00.000Z,2:30PM,14:30,4:20PM,16:20,6D,Pelita Air Service,353,,/flight-tracker/6D/353?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031667,PDG,Padang,
+2024-03-28T09:20:00.000Z,3:45PM,15:45,4:20PM,16:20,TNU,TransNusa,652,,/flight-tracker/TNU/652?year=2024&amp;month=3&amp;date=28&amp;flightId=1242987296,JHB,Johor Bharu,
+2024-03-28T09:20:00.000Z,2:55PM,14:55,4:20PM,16:20,ID*,Batik Air,6565,,/flight-tracker/ID*/6565?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031198,MLG,Malang,
+2024-03-28T09:20:00.000Z,5:25PM,17:25,6:35PM,18:35,ID*,Batik Air,6367,,/flight-tracker/ID*/6367?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031261,YIA,Yogyakarta,
+2024-03-28T09:20:00.000Z,3:20PM,15:20,4:20PM,16:20,JT*,Lion Air,137,,/flight-tracker/JT*/137?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034603,TJQ,Tanjung Pandan,
+2024-03-28T09:25:00.000Z,2:00PM,14:00,4:25PM,16:25,SJV,Super Air Jet,949,,/flight-tracker/SJV/949?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032053,KNO,Kuala Namu,
+2024-03-28T09:25:00.000Z,2:15PM,14:15,4:25PM,16:25,ID*,Batik Air,6833,,/flight-tracker/ID*/6833?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031303,DTB,Siborong-Borong,
+2024-03-28T09:25:00.000Z,2:50PM,14:50,4:25PM,16:25,JT*,Lion Air,749,,/flight-tracker/JT*/749?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034841,SUB,Surabaya,
+2024-03-28T09:30:00.000Z,3:25PM,15:25,4:30PM,16:30,JT*,Lion Air,219,,/flight-tracker/JT*/219?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034623,PGK,Pangkal Pinang,
+2024-03-28T09:35:00.000Z,3:15PM,15:15,4:35PM,16:35,SJ,Sriwijaya Air,589,,/flight-tracker/SJ/589?year=2024&amp;month=3&amp;date=28&amp;flightId=1243056892,UPG,Ujung Pandang,
+2024-03-28T09:35:00.000Z,3:30PM,15:30,4:35PM,16:35,JT*,Lion Air,647,,/flight-tracker/JT*/647?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034736,LOP,Praya,
+2024-03-28T09:35:00.000Z,3:45PM,15:45,4:35PM,16:35,CTV,Citilink,689,,/flight-tracker/CTV/689?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053589,DPS,Denpasar,
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,GA,Garuda Indonesia,189,,/flight-tracker/GA/189?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,CI,China Airlines,9768,Operated by Garuda Indonesia 189,/flight-tracker/CI/9768?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,TRUE
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,EY,Etihad Airways,7129,Operated by Garuda Indonesia 189,/flight-tracker/EY/7129?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,TRUE
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,NH,ANA,5502,Operated by Garuda Indonesia 189,/flight-tracker/NH/5502?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,TRUE
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,SV,Saudia,6191,Operated by Garuda Indonesia 189,/flight-tracker/SV/6191?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,TRUE
+2024-03-28T09:40:00.000Z,2:10PM,14:10,4:40PM,16:40,SV,Saudia,6374,Operated by Garuda Indonesia 189,/flight-tracker/SV/6374?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026418,KNO,Kuala Namu,TRUE
+2024-03-28T09:45:00.000Z,3:25PM,15:25,4:45PM,16:45,GA,Garuda Indonesia,453,,/flight-tracker/GA/453?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026448,LBJ,Labuan Bajo,
+2024-03-28T09:45:00.000Z,3:05PM,15:05,4:45PM,16:45,JT*,Lion Air,3867,,/flight-tracker/JT*/3867?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034701,PKY,Palangkaraya,
+2024-03-28T09:45:00.000Z,3:10PM,15:10,4:45PM,16:45,6D,Pelita Air Service,209,,/flight-tracker/6D/209?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031609,SUB,Surabaya,
+2024-03-28T09:50:00.000Z,4:00PM,16:00,4:50PM,16:50,6D,Pelita Air Service,109,,/flight-tracker/6D/109?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031637,DPS,Denpasar,
+2024-03-28T09:50:00.000Z,3:00PM,15:00,4:50PM,16:50,SJV,Super Air Jet,811,,/flight-tracker/SJV/811?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031970,PDG,Padang,
+2024-03-28T09:50:00.000Z,3:10PM,15:10,4:50PM,16:50,SJV,Super Air Jet,855,,/flight-tracker/SJV/855?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032005,BTH,Batam,
+2024-03-28T09:50:00.000Z,3:15PM,15:15,4:50PM,16:50,ID*,Batik Air,6401,,/flight-tracker/ID*/6401?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031214,SUB,Surabaya,
+2024-03-28T09:50:00.000Z,3:20PM,15:20,4:50PM,16:50,JT*,Lion Air,725,,/flight-tracker/JT*/725?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034804,PNK,Pontianak,
+2024-03-28T09:50:00.000Z,3:25PM,15:25,4:50PM,16:50,GA,Garuda Indonesia,245,,/flight-tracker/GA/245?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026421,SRG,Semarang,
+2024-03-28T09:50:00.000Z,3:25PM,15:25,4:50PM,16:50,CI,China Airlines,9677,Operated by Garuda Indonesia 245,/flight-tracker/CI/9677?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026421,SRG,Semarang,TRUE
+2024-03-28T09:50:00.000Z,3:25PM,15:25,4:50PM,16:50,MH,Malaysia Airlines,5873,Operated by Garuda Indonesia 245,/flight-tracker/MH/5873?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026421,SRG,Semarang,TRUE
+2024-03-28T09:50:00.000Z,3:25PM,15:25,4:50PM,16:50,NH,ANA,5506,Operated by Garuda Indonesia 245,/flight-tracker/NH/5506?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026421,SRG,Semarang,TRUE
+2024-03-28T09:50:00.000Z,3:25PM,15:25,4:50PM,16:50,SV,Saudia,6151,Operated by Garuda Indonesia 245,/flight-tracker/SV/6151?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026421,SRG,Semarang,TRUE
+2024-03-28T09:50:00.000Z,3:30PM,15:30,4:50PM,16:50,SJV,Super Air Jet,847,,/flight-tracker/SJV/847?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031993,DJB,Jambi,
+2024-03-28T09:50:00.000Z,3:45PM,15:45,4:50PM,16:50,ID*,Batik Air,6341,,/flight-tracker/ID*/6341?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031144,SRG,Semarang,
+2024-03-28T09:55:00.000Z,10:50AM,10:50,4:55PM,16:55,JL,JAL,725,,/flight-tracker/JL/725?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034072,NRT,Tokyo,
+2024-03-28T09:55:00.000Z,10:50AM,10:50,4:55PM,16:55,AS,Alaska Airlines,7345,Operated by JAL 725,/flight-tracker/AS/7345?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034072,NRT,Tokyo,TRUE
+2024-03-28T09:55:00.000Z,10:50AM,10:50,4:55PM,16:55,GA,Garuda Indonesia,9153,Operated by JAL 725,/flight-tracker/GA/9153?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034072,NRT,Tokyo,TRUE
+2024-03-28T09:55:00.000Z,10:50AM,10:50,4:55PM,16:55,HA,Hawaiian Airlines,5376,Operated by JAL 725,/flight-tracker/HA/5376?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034072,NRT,Tokyo,TRUE
+2024-03-28T09:55:00.000Z,2:30PM,14:30,4:55PM,16:55,JT*,Lion Air,215,,/flight-tracker/JT*/215?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034629,KNO,Kuala Namu,
+2024-03-28T09:55:00.000Z,4:00PM,16:00,4:55PM,16:55,CTV,Citilink,681,,/flight-tracker/CTV/681?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053583,DPS,Denpasar,
+2024-03-28T09:55:00.000Z,4:10PM,16:10,4:55PM,16:55,SQ,Singapore Airlines,962,,/flight-tracker/SQ/962?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058263,SIN,Singapore,
+2024-03-28T09:55:00.000Z,4:10PM,16:10,4:55PM,16:55,GA,Garuda Indonesia,8962,Operated by Singapore Airlines 962,/flight-tracker/GA/8962?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058263,SIN,Singapore,TRUE
+2024-03-28T09:55:00.000Z,4:10PM,16:10,4:55PM,16:55,UK*,Vistara,8962,Operated by Singapore Airlines 962,/flight-tracker/UK*/8962?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058263,SIN,Singapore,TRUE
+2024-03-28T09:55:00.000Z,4:10PM,16:10,4:55PM,16:55,VA,Virgin Australia,5834,Operated by Singapore Airlines 962,/flight-tracker/VA/5834?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058263,SIN,Singapore,TRUE
+2024-03-28T10:00:00.000Z,2:45PM,14:45,5:00PM,17:00,GA,Garuda Indonesia,601,,/flight-tracker/GA/601?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026500,MDC,Manado,
+2024-03-28T10:00:00.000Z,2:45PM,14:45,5:00PM,17:00,EY,Etihad Airways,7131,Operated by Garuda Indonesia 601,/flight-tracker/EY/7131?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026500,MDC,Manado,TRUE
+2024-03-28T10:00:00.000Z,2:45PM,14:45,5:00PM,17:00,NH,ANA,5516,Operated by Garuda Indonesia 601,/flight-tracker/NH/5516?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026500,MDC,Manado,TRUE
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,GA,Garuda Indonesia,411,,/flight-tracker/GA/411?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,EY,Etihad Airways,7114,Operated by Garuda Indonesia 411,/flight-tracker/EY/7114?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,TRUE
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,KL,KLM,4055,Operated by Garuda Indonesia 411,/flight-tracker/KL/4055?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,TRUE
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,SV,Saudia,6367,Operated by Garuda Indonesia 411,/flight-tracker/SV/6367?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,TRUE
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,TK,Turkish Airlines,9371,Operated by Garuda Indonesia 411,/flight-tracker/TK/9371?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,TRUE
+2024-03-28T10:00:00.000Z,3:55PM,15:55,5:00PM,17:00,VN,Vietnam Airlines,3939,Operated by Garuda Indonesia 411,/flight-tracker/VN/3939?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026464,DPS,Denpasar,TRUE
+2024-03-28T10:00:00.000Z,3:15PM,15:15,5:00PM,17:00,CTV,Citilink,701,,/flight-tracker/CTV/701?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053571,BWX,Banyuwangi,
+2024-03-28T10:05:00.000Z,4:10PM,16:10,5:05PM,17:05,ID*,Batik Air,7150,,/flight-tracker/ID*/7150?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031379,SIN,Singapore,
+2024-03-28T10:05:00.000Z,3:50PM,15:50,5:05PM,17:05,CTV,Citilink,885,,/flight-tracker/CTV/885?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053695,PLM,Palembang,
+2024-03-28T10:10:00.000Z,3:30PM,15:30,5:10PM,17:10,ID*,Batik Air,6725,,/flight-tracker/ID*/6725?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031291,KDI,Kendari,
+2024-03-28T10:10:00.000Z,3:40PM,15:40,5:10PM,17:10,CTV,Citilink,503,,/flight-tracker/CTV/503?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053616,KUL,Kuala Lumpur,
+2024-03-28T10:10:00.000Z,3:50PM,15:50,5:10PM,17:10,QZ,Indonesia AirAsia,221,,/flight-tracker/QZ/221?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054958,PEN,Penang,
+2024-03-28T10:10:00.000Z,4:15PM,16:15,5:10PM,17:10,SJV,Super Air Jet,743,,/flight-tracker/SJV/743?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031946,DPS,Denpasar,
+2024-03-28T10:10:00.000Z,3:55PM,15:55,5:10PM,17:10,GA,Garuda Indonesia,113,,/flight-tracker/GA/113?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026374,PLM,Palembang,
+2024-03-28T10:10:00.000Z,3:55PM,15:55,5:10PM,17:10,MH,Malaysia Airlines,5785,Operated by Garuda Indonesia 113,/flight-tracker/MH/5785?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026374,PLM,Palembang,TRUE
+2024-03-28T10:10:00.000Z,3:55PM,15:55,5:10PM,17:10,NH,ANA,5500,Operated by Garuda Indonesia 113,/flight-tracker/NH/5500?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026374,PLM,Palembang,TRUE
+2024-03-28T10:15:00.000Z,4:00PM,16:00,5:15PM,17:15,GA,Garuda Indonesia,221,,/flight-tracker/GA/221?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026436,SOC,Surakarta,
+2024-03-28T10:15:00.000Z,4:00PM,16:00,5:15PM,17:15,EK,Emirates,7297,Operated by Garuda Indonesia 221,/flight-tracker/EK/7297?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026436,SOC,Surakarta,TRUE
+2024-03-28T10:15:00.000Z,4:00PM,16:00,5:15PM,17:15,EY,Etihad Airways,7118,Operated by Garuda Indonesia 221,/flight-tracker/EY/7118?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026436,SOC,Surakarta,TRUE
+2024-03-28T10:15:00.000Z,4:00PM,16:00,5:15PM,17:15,MH,Malaysia Airlines,5769,Operated by Garuda Indonesia 221,/flight-tracker/MH/5769?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026436,SOC,Surakarta,TRUE
+2024-03-28T10:20:00.000Z,3:30AM,03:30,5:20PM,17:20,SV,Saudia,818,,/flight-tracker/SV/818?year=2024&amp;month=3&amp;date=28&amp;flightId=1243059418,JED,Jeddah,
+2024-03-28T10:20:00.000Z,4:25PM,16:25,5:20PM,17:20,QZ,Indonesia AirAsia,531,,/flight-tracker/QZ/531?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054996,KCH,Kuching,
+2024-03-28T10:20:00.000Z,4:30PM,16:30,5:20PM,17:20,JT*,Lion Air,323,,/flight-tracker/JT*/323?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034687,BDJ,Banjarmasin,
+2024-03-28T10:30:00.000Z,1:55PM,13:55,5:30PM,17:30,QF,Qantas,41,,/flight-tracker/QF/41?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053070,SYD,Sydney,
+2024-03-28T10:30:00.000Z,4:10PM,16:10,5:30PM,17:30,SJV,Super Air Jet,251,,/flight-tracker/SJV/251?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031849,UPG,Ujung Pandang,
+2024-03-28T10:30:00.000Z,4:25PM,16:25,5:30PM,17:30,MH,Malaysia Airlines,723,,/flight-tracker/MH/723?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042804,KUL,Kuala Lumpur,
+2024-03-28T10:30:00.000Z,4:25PM,16:25,5:30PM,17:30,FY,Firefly,7389,Operated by Malaysia Airlines 723,/flight-tracker/FY/7389?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042804,KUL,Kuala Lumpur,TRUE
+2024-03-28T10:30:00.000Z,4:25PM,16:25,5:30PM,17:30,KL,KLM,3961,Operated by Malaysia Airlines 723,/flight-tracker/KL/3961?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042804,KUL,Kuala Lumpur,TRUE
+2024-03-28T10:30:00.000Z,4:25PM,16:25,5:30PM,17:30,QR,Qatar Airways,5002,Operated by Malaysia Airlines 723,/flight-tracker/QR/5002?year=2024&amp;month=3&amp;date=28&amp;flightId=1243042804,KUL,Kuala Lumpur,TRUE
+2024-03-28T10:30:00.000Z,3:45PM,15:45,5:30PM,17:30,ID*,Batik Air,6855,,/flight-tracker/ID*/6855?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031298,PKU,Pekanbaru,
+2024-03-28T10:30:00.000Z,4:20PM,16:20,5:30PM,17:30,SJV,Super Air Jet,927,,/flight-tracker/SJV/927?year=2024&amp;month=3&amp;date=28&amp;flightId=1243032030,PLM,Palembang,
+2024-03-28T10:30:00.000Z,4:25PM,16:25,5:30PM,17:30,SJV,Super Air Jet,825,,/flight-tracker/SJV/825?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031988,PGK,Pangkal Pinang,
+2024-03-28T10:35:00.000Z,4:25PM,16:25,5:35PM,17:35,CTV,Citilink,423,,/flight-tracker/CTV/423?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053547,AAP,Samarinda,
+2024-03-28T10:35:00.000Z,4:45PM,16:45,5:35PM,17:35,GA,Garuda Indonesia,537,,/flight-tracker/GA/537?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026502,BDJ,Banjarmasin,
+2024-03-28T10:35:00.000Z,4:45PM,16:45,5:35PM,17:35,MH,Malaysia Airlines,4043,Operated by Garuda Indonesia 537,/flight-tracker/MH/4043?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026502,BDJ,Banjarmasin,TRUE
+2024-03-28T10:35:00.000Z,4:10PM,16:10,5:35PM,17:35,SJ,Sriwijaya Air,187,,/flight-tracker/SJ/187?year=2024&amp;month=3&amp;date=28&amp;flightId=1243056915,PNK,Pontianak,
+2024-03-28T10:40:00.000Z,4:15PM,16:15,5:40PM,17:40,GA,Garuda Indonesia,647,,/flight-tracker/GA/647?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026521,AMQ,Ambon,
+2024-03-28T10:40:00.000Z,4:15PM,16:15,5:40PM,17:40,KL,KLM,4026,Operated by Garuda Indonesia 647,/flight-tracker/KL/4026?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026521,AMQ,Ambon,TRUE
+2024-03-28T10:40:00.000Z,2:15PM,14:15,5:40PM,17:40,ET,Ethiopian Airlines,628,,/flight-tracker/ET/628?year=2024&amp;month=3&amp;date=28&amp;flightId=1242865219,BKK,Bangkok,
+2024-03-28T10:40:00.000Z,4:00PM,16:00,5:40PM,17:40,GA,Garuda Indonesia,449,,/flight-tracker/GA/449?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026458,SUB,Surabaya,
+2024-03-28T10:40:00.000Z,4:00PM,16:00,5:40PM,17:40,EY,Etihad Airways,8150,Operated by Garuda Indonesia 449,/flight-tracker/EY/8150?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026458,SUB,Surabaya,TRUE
+2024-03-28T10:40:00.000Z,5:30PM,17:30,6:10PM,18:10,IN*,Nam Air,2801,,/flight-tracker/IN*/2801?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031572,DPS,Denpasar,
+2024-03-28T10:45:00.000Z,4:25PM,16:25,5:45PM,17:45,JT*,Lion Air,793,,/flight-tracker/JT*/793?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034880,UPG,Ujung Pandang,
+2024-03-28T10:45:00.000Z,6:30PM,18:30,7:45PM,19:45,ID*,Batik Air,7363,,/flight-tracker/ID*/7363?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031364,SOC,Surakarta,
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,GA,Garuda Indonesia,867,,/flight-tracker/GA/867?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,EY,Etihad Airways,8141,Operated by Garuda Indonesia 867,/flight-tracker/EY/8141?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,TRUE
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,PG,Bangkok Airways,4303,Operated by Garuda Indonesia 867,/flight-tracker/PG/4303?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,TRUE
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,SV,Saudia,6162,Operated by Garuda Indonesia 867,/flight-tracker/SV/6162?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,TRUE
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,SV,Saudia,6194,Operated by Garuda Indonesia 867,/flight-tracker/SV/6194?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,TRUE
+2024-03-28T10:50:00.000Z,2:15PM,14:15,5:50PM,17:50,WY,Oman Air,5700,Operated by Garuda Indonesia 867,/flight-tracker/WY/5700?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026568,BKK,Bangkok,TRUE
+2024-03-28T10:50:00.000Z,3:25PM,15:25,5:50PM,17:50,JT*,Lion Air,385,,/flight-tracker/JT*/385?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034695,KNO,Kuala Namu,
+2024-03-28T10:50:00.000Z,4:30PM,16:30,5:50PM,17:50,ID*,Batik Air,6797,,/flight-tracker/ID*/6797?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031320,UPG,Ujung Pandang,
+2024-03-28T10:50:00.000Z,4:40PM,16:40,5:50PM,17:50,QZ,Indonesia AirAsia,211,,/flight-tracker/QZ/211?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054977,KUL,Kuala Lumpur,
+2024-03-28T10:50:00.000Z,4:45PM,16:45,5:50PM,17:50,CTV,Citilink,683,,/flight-tracker/CTV/683?year=2024&amp;month=3&amp;date=28&amp;flightId=1243053597,DPS,Denpasar,
+2024-03-28T10:50:00.000Z,4:15PM,16:15,5:50PM,17:50,ID*,Batik Air,6587,,/flight-tracker/ID*/6587?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031279,SUB,Surabaya,
+2024-03-28T10:55:00.000Z,2:25PM,14:25,5:55PM,17:55,TG,Thai Airways International,435,,/flight-tracker/TG/435?year=2024&amp;month=3&amp;date=28&amp;flightId=1243060063,BKK,Bangkok,
+2024-03-28T10:55:00.000Z,4:25PM,16:25,5:55PM,17:55,JT*,Lion Air,687,,/flight-tracker/JT*/687?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034768,PNK,Pontianak,
+2024-03-28T10:55:00.000Z,4:50PM,16:50,5:55PM,17:55,ID*,Batik Air,8355,,/flight-tracker/ID*/8355?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031424,SRG,Semarang,
+2024-03-28T11:00:00.000Z,2:30AM,02:30,6:00PM,18:00,TK,Turkish Airlines,56,,/flight-tracker/TK/56?year=2024&amp;month=3&amp;date=28&amp;flightId=1243060998,ISL,Istanbul,
+2024-03-28T11:00:00.000Z,2:30AM,02:30,6:00PM,18:00,GA,Garuda Indonesia,9095,Operated by Turkish Airlines 56,/flight-tracker/GA/9095?year=2024&amp;month=3&amp;date=28&amp;flightId=1243060998,ISL,Istanbul,TRUE
+2024-03-28T11:05:00.000Z,4:40PM,16:40,6:05PM,18:05,GA,Garuda Indonesia,643,,/flight-tracker/GA/643?year=2024&amp;month=3&amp;date=28&amp;flightId=1243026540,UPG,Ujung Pandang,
+2024-03-28T11:05:00.000Z,5:20PM,17:20,6:05PM,18:05,SQ,Singapore Airlines,964,,/flight-tracker/SQ/964?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058264,SIN,Singapore,
+2024-03-28T11:05:00.000Z,5:20PM,17:20,6:05PM,18:05,GA,Garuda Indonesia,8964,Operated by Singapore Airlines 964,/flight-tracker/GA/8964?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058264,SIN,Singapore,TRUE
+2024-03-28T11:05:00.000Z,5:20PM,17:20,6:05PM,18:05,OZ,Asiana Airlines,6796,Operated by Singapore Airlines 964,/flight-tracker/OZ/6796?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058264,SIN,Singapore,TRUE
+2024-03-28T11:05:00.000Z,5:20PM,17:20,6:05PM,18:05,UK*,Vistara,8964,Operated by Singapore Airlines 964,/flight-tracker/UK*/8964?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058264,SIN,Singapore,TRUE
+2024-03-28T11:05:00.000Z,5:20PM,17:20,6:05PM,18:05,VA,Virgin Australia,5832,Operated by Singapore Airlines 964,/flight-tracker/VA/5832?year=2024&amp;month=3&amp;date=28&amp;flightId=1243058264,SIN,Singapore,TRUE
+2024-03-28T11:15:00.000Z,4:35PM,16:35,6:15PM,18:15,QZ,Indonesia AirAsia,527,,/flight-tracker/QZ/527?year=2024&amp;month=3&amp;date=28&amp;flightId=1243054995,BKI,Kota Kinabalu,
+2024-03-28T12:05:00.000Z,4:25PM,16:25,5:55PM,17:55,JT*,Lion Air,717,,/flight-tracker/JT*/717?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034803,PNK,Pontianak,
+2024-03-28T13:10:00.000Z,4:30PM,16:30,5:50PM,17:50,ID*,Batik Air,6231,,/flight-tracker/ID*/6231?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031234,UPG,Ujung Pandang,
+2024-03-28T13:10:00.000Z,4:30PM,16:30,5:50PM,17:50,EK,Emirates,3553,Operated by Batik Air 6231,/flight-tracker/EK/3553?year=2024&amp;month=3&amp;date=28&amp;flightId=1243031234,UPG,Ujung Pandang,TRUE
+2024-03-28T14:55:00.000Z,1:30PM,13:30,3:55PM,15:55,JT*,Lion Air,383,,/flight-tracker/JT*/383?year=2024&amp;month=3&amp;date=28&amp;flightId=1243034692,KNO,Kuala Namu,
